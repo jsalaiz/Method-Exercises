@@ -1,0 +1,9 @@
+C:\Users\jonat\Desktop\TrueCoders\repos\Method Exercises\Method Exercises\Method Exercises\bin\Debug\net472\Method Exercises.exe.config
+C:\Users\jonat\Desktop\TrueCoders\repos\Method Exercises\Method Exercises\Method Exercises\bin\Debug\net472\Method Exercises.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\Method Exercises\Method Exercises\Method Exercises\bin\Debug\net472\Method Exercises.pdb
+C:\Users\jonat\Desktop\TrueCoders\repos\Method Exercises\Method Exercises\Method Exercises\obj\Debug\net472\Method Exercises.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\Method Exercises\Method Exercises\Method Exercises\obj\Debug\net472\Method Exercises.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\Method Exercises\Method Exercises\Method Exercises\obj\Debug\net472\Method Exercises.AssemblyInfo.cs
+C:\Users\jonat\Desktop\TrueCoders\repos\Method Exercises\Method Exercises\Method Exercises\obj\Debug\net472\Method Exercises.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\Method Exercises\Method Exercises\Method Exercises\obj\Debug\net472\Method Exercises.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\Method Exercises\Method Exercises\Method Exercises\obj\Debug\net472\Method Exercises.pdb
